@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm ENVIXITY<br><br>🛡️ **Aspiring Cybersecurity Professional | Amateur Ethical Hacker**<br><br>I'm passionate about cybersecurity and learning how systems work so I can help make them more secure. I spend my time studying security concepts, practicing ethical hacking, and improving my skills through hands-on labs and challenges.<br><br>## 🔧 Skills<br><br>* Basic Penetration Testing<br>* Vulnerability Scanning<br>* Networking Fundamentals<br>* Linux / Command Line<br><br>## 🧰 Tools<br><br>Nmap • Wireshark • Burp Suite • Metasploit • Kali Linux<br><br>## 🎯 Goal<br><br>Working toward my first **Cybersecurity / Security role** and continuously learning to improve my skills.<br><br>⚡ Always learning. Always testing. Always securing.<br>
+👋 Hi, I'm ENVIXITY<br>🛡️ Aspiring Cybersecurity Professional & Amateur Ethical Hacker<br>💻 Learning penetration testing, networking, and Linux security<br>🎯 Working toward my first role in cybersecurity<br>
 
 
 ## 🌐 Socials:
