@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm ENVIXITY<br>🛡️ Aspiring Cybersecurity Professional & Amateur Ethical Hacker<br>💻 Learning penetration testing, networking, and Linux security<br>🎯 Working toward my first role in cybersecurity<br>
+👋 Hi, I'm ENVIXITY<br>🎓 Cybersecurity Student
+🛡️ Working towards Ethical Hacking & Bug Bounty Hunting
+🐧 Learning Linux, Networking & Penetration Testing <br>
 
 
 ## 🌐 Socials:
